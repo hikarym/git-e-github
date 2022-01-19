@@ -17,3 +17,7 @@ Adiciona todas as alterações feitas na ubicação atual.
 
 Adiciona um arquivo em específico
 
+### git commit
+
+
+
