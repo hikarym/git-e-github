@@ -1,12 +1,16 @@
 ## Notas da aula 1
 Notas de aula referente ao módulo 1 do curso.
 
-### Nota 1
+### Instalação do GIT
 
 - ...
 - ...
 
-### Nota 2
+### Configuração do git
 
 - ...
+- ...
+  
+### Comandos
+
 - ...
